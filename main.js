@@ -1,4 +1,3 @@
-const fabric = require('fabric');
 var canvas = new fabric.Canvas('myCanvas');
 // Create canvas variable
  block_y=1;
